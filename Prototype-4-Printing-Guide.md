@@ -18,11 +18,11 @@ The mounting system used is also a factor in what PotHolder is used. There are t
 STL files for 3D printing are located in the [hardware folder](https://github.com/LucidVR/lucidgloves/tree/main/hardware). 
 
 The printed parts required **for each hand** are:
-1. HapticSpool (5x)
-2. SpoolCover (5x)
-3. Tensioner (5x)
+1. HapticSpool (5x) (DONE)
+2. SpoolCover (5x) (DONE)
+3. Tensioner (5x) 
 	- For either WL or green potentiometers
-4. PotHolder (5x)
+4. PotHolder (5x) (DONE)
 	- For either WL or green potentiometers
 	- For either elastic or rigid mount
 5. GuideNode (2+ per finger, 1+ for thumb)
